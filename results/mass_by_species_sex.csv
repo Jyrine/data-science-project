@@ -1,0 +1,7 @@
+species,sex,count,mean,std
+Adelie,female,73,3368.8,269.4
+Adelie,male,73,4043.5,346.8
+Chinstrap,female,34,3527.2,285.3
+Chinstrap,male,34,3939.0,362.1
+Gentoo,female,58,4679.7,281.6
+Gentoo,male,61,5484.8,313.2
